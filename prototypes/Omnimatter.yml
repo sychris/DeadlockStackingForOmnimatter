@@ -1,0 +1,51 @@
+mod: omnimatter
+items:
+  - name: omnite
+    type: resource
+    tier: 1
+    icon: ore-pile
+  - name: stone-crushed
+    type: resource
+    tier: 1
+    icon: dust
+  - name: pulverized-stone
+    type: intermediate
+    tier: 2
+  - name: crushed-omnite
+    type: intermediate
+    tier: 2
+  - name: pulverized-omnite
+    type: intermediate
+    tier: 2
+  - name: omnite-brick
+    type: intermediate
+    tier: 1
+  - name: omnicium-plate
+    type: intermediate
+    tier: 1
+  - name: omnicium-iron-alloy
+    type: intermediate
+    tier: 2
+    icon:
+      name: omnicium-plate
+      additions:
+        - icon: __base__/graphics/icons/iron-plate.png
+          icon_size: 64
+          scale: 0.21875
+          shift: [-10, 10]
+  - name: omnicium-steel-alloy
+    type: intermediate
+    tier: 2
+    icon:
+      name: omnicium-plate
+      additions:
+        - icon: __base__/graphics/icons/steel-plate.png
+          icon_size: 64
+          scale: 0.21875
+          shift: [-10, 10]
+  - name: omnicium-gear-wheel
+    type: intermediate
+    tier: 1
+  - name: omnicium-iron-gear-box
+    type: intermediate
+    tier: 2
