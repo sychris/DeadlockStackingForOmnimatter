@@ -1,0 +1,96 @@
+mod: omnimatter_crystal
+items:
+  - name: omnine
+    type: resource
+    tier: 2
+    icon: ore-pile
+  - name: omnine-shards
+    type: resource
+    tier: 2
+    icon: dust
+  - name: shattered-omnine
+    type: resource
+    tier: 2
+    icon: dust
+  - name: quasi-solid-omnistal
+    type: resource
+    tier: 2
+  - name: oscillocrystal
+    type: resource
+    tier: 2
+    icon: ore-pile
+  - name: omnilgium
+    type: resource
+    tier: 2
+    icon: ore-pile
+  - name: electrocrystal
+    type: resource
+    tier: 2
+    icon: ore-pile
+  - name: impure-crystal-rod
+    type: resource
+    tier: 2
+    icon: 69
+  - name: crystal-rod
+    type: resource
+    tier: 2
+    icon: 69
+
+  # Vanilla ore processing
+  - name: iron-ore-omnide-salt
+    type: resource
+    tier: 2
+    icon:
+      name: omnide-salt
+      style: dust
+      additions:
+        - icon: __base__/graphics/icons/iron-ore.png
+          icon_size: 64
+          scale: 0.21875
+          shift: [-10, 10]
+  - name: fragmented-iron-crystal
+    type: resource
+    tier: 2
+    icon:
+      name: powder-iron
+      style: ore-pile
+  - name: iron-ore-crystal
+    type: resource
+    tier: 2
+    icon: ore-pile
+  - name: copper-ore-omnide-salt
+    type: resource
+    tier: 2
+    icon:
+      name: omnide-salt
+      style: dust
+      additions:
+        - icon: __base__/graphics/icons/copper-ore.png
+          icon_size: 64
+          scale: 0.21875
+          shift: [-10, 10]
+  - name: fragmented-copper-crystal
+    type: resource
+    tier: 2
+    icon:
+      name: powder-copper
+      style: ore-pile
+  - name: copper-ore-crystal
+    type: resource
+    tier: 2
+    icon: ore-pile
+  - name: uranium-ore-omnide-salt
+    type: resource
+    tier: 2
+    icon:
+      name: omnide-salt
+      style: dust
+      additions:
+        - icon: __base__/graphics/icons/uranium-ore.png
+          icon_size: 64
+          scale: 0.21875
+          shift: [-10, 10]
+  - name: uranium-ore-crystal
+    type: resource
+    tier: 2
+    icon: ore-pile
