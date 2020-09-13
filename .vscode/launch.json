@@ -1,0 +1,59 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "factoriomod",
+            "request": "launch",
+            "name": "Factorio Mod Debug",
+
+            // macOS Path
+            "factorioPath": "C://Users/Larandar/Code/Factorio/bin/x64/factorio.exe",
+
+            // Starting arguments
+            "factorioArgs": [
+                // Laptop is not the best
+                "--graphics-quality",
+                "low",
+
+                // I'm doing other things too
+                "--disable-audio",
+
+                // Start a testing scenarion
+                // "--load-scenario",
+                // "EditorExtensions/testing"
+
+                // Load a saved game
+                "--load-game",
+                "debug_deadlock_omnimatter"
+            ],
+
+            // REgister the hook (why is this not the default?)
+            "hookData": true,
+            "hookLog": true,
+
+            // Make sure we have a clean environment to test
+            "modsPath": "C://Users/Larandar/Code/Factorio/mods",
+            "manageMod": true,
+            "adjustMods": {
+                // Can't test it else
+                "omnilib": true,
+                "omnimatter": true,
+                "omnimatter_crystal": true,
+                // "omnimatter_energy": true,
+                "LSLib": true,
+                "CompressedFluids": true,
+                "deadlock-beltboxes-loaders": true,
+                "DeadlockStackingForOmnimatter": true,
+                // Debug mod
+                "debugadapter": true,
+                // Editor Extensions is really great for testing
+                "flib": true,
+                "EditorExtensions": true,
+            },
+            "disableExtraMods": true
+        }
+    ]
+}
