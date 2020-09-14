@@ -43,10 +43,13 @@
                 "omnimatter": true,
                 "omnimatter_crystal": true,
                 // "omnimatter_energy": true,
-                "LSLib": true,
+                "LSlib": true,
                 "CompressedFluids": true,
                 "deadlock-beltboxes-loaders": true,
                 "DeadlockStackingForOmnimatter": true,
+                // Stacked recipes
+                "rusty-locale": true,
+                "deadlock-stacked-recipes": true,
                 // Debug mod
                 "debugadapter": true,
                 // Editor Extensions is really great for testing
