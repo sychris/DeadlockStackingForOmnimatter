@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2020-09-15
+  Changes:
+    - Remove fluids code, not needed since Presurized Fluids work out of the box
+    - Overwrite other icons for Omnimatter if found
+  Bugfixes:
+    - Registering items too late to work with DSR
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2020-09-13
   Changes:
