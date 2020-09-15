@@ -24,5 +24,4 @@ for _, mod_stackables in pairs(mods) do
             table.insert(data.raw.item[stacked_name].icons, icon_addition)
         end
     end
-    for _, fluid in pairs(mod_stackables.fluids) do print(fluid) end
 end
