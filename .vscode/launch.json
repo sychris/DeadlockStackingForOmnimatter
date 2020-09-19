@@ -44,7 +44,7 @@
                 "omnimatter_crystal": true,
                 // "omnimatter_energy": true,
                 "omnimatter_wood": true,
-                // "omnimatter_energy": true,
+                "omnimatter_science": true,
                 "LSlib": true,
                 "CompressedFluids": true,
                 "deadlock-beltboxes-loaders": true,

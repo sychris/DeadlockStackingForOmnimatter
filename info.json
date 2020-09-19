@@ -13,6 +13,7 @@
         "?omnimatter_crystal >=  4.0.0",
         "?omnimatter_science >=  4.0.0",
         "?omnimatter_wood >=  4.0.0",
+        "?omnimatter_science >=  4.0.0",
         "!omnimatter_compression"
     ],
     "description": "Create stacked items and pressurized fluids of Omni's mods."

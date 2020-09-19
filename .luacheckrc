@@ -2,6 +2,7 @@ new_globals = {
     -- Factorio globals
     "settings",
     "data",
+    "mods",
     -- Added by mods
     "omni",
     "deadlock"
