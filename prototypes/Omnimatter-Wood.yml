@@ -1,0 +1,8 @@
+mod: omnimatter_wood
+items:
+  - name: omniwood
+    type: resource
+    tier: 1
+    icon:
+      name: "omniwood - Kopia"
+      style: ore-pile

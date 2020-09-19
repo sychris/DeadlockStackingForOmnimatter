@@ -3,7 +3,8 @@ if not settings.startup["deadlock-enable-beltboxes"] or
 
 local mods = {
     ["__omnimatter__"] = require("prototypes.omnimatter"),
-    ["__omnimatter_crystal__"] = require("prototypes.omnimatter_crystal")
+    ["__omnimatter_crystal__"] = require("prototypes.omnimatter_crystal"),
+    ["__omnimatter_wood__"] = require("prototypes.omnimatter_wood"),
 }
 
 for _, mod_stackables in pairs(mods) do
