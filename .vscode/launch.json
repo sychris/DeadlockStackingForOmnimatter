@@ -43,6 +43,8 @@
                 "omnimatter": true,
                 "omnimatter_crystal": true,
                 // "omnimatter_energy": true,
+                "omnimatter_wood": true,
+                // "omnimatter_energy": true,
                 "LSlib": true,
                 "CompressedFluids": true,
                 "deadlock-beltboxes-loaders": true,
@@ -50,6 +52,8 @@
                 // Stacked recipes
                 "rusty-locale": true,
                 "deadlock-stacked-recipes": true,
+                // High pressure pumps
+                "PressurizedBarrels": true,
                 // Debug mod
                 "debugadapter": true,
                 // Editor Extensions is really great for testing
