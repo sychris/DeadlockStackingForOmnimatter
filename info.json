@@ -1,6 +1,6 @@
 {
     "name": "DeadlockStackingForOmnimatter",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "title": "Deadlock Stacking for Omnimatter",
     "author": "Adrien 'Larandar' DUDOUIT-EXPOSITO",
     "contact": "adrien@dudouit.me",
@@ -11,6 +11,8 @@
         "deadlock-beltboxes-loaders >= 2.3.0",
         "omnimatter >= 4.0.0",
         "?omnimatter_crystal >=  4.0.0",
+        "?omnimatter_science >=  4.0.0",
+        "?omnimatter_wood >=  4.0.0",
         "!omnimatter_compression"
     ],
     "description": "Create stacked items and pressurized fluids of Omni's mods."
