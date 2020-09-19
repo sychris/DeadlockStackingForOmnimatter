@@ -48,7 +48,7 @@ stackables.items = {
     },
     {
         ["item-name"] = "electrocrystal",
-        ["unlock-tier"] = "deadlock-stacking-2",
+        ["unlock-tier"] = "deadlock-stacking-3",
         ["icon"] = "__DeadlockStackingForOmnimatter__/graphics/icons/omnimatter_crystal/stacked-electrocrystal.png",
         ["icon-size"] = 64,
         ["icon-additions"] = {}
@@ -141,6 +141,27 @@ stackables.items = {
         ["item-name"] = "uranium-ore-crystal",
         ["unlock-tier"] = "deadlock-stacking-2",
         ["icon"] = "__DeadlockStackingForOmnimatter__/graphics/icons/omnimatter_crystal/stacked-uranium-ore-crystal.png",
+        ["icon-size"] = 64,
+        ["icon-additions"] = {}
+    },
+    {
+        ["item-name"] = "omnine-structure-crystal",
+        ["unlock-tier"] = "deadlock-stacking-2",
+        ["icon"] = "__DeadlockStackingForOmnimatter__/graphics/icons/omnimatter_crystal/stacked-omnine-structure-crystal.png",
+        ["icon-size"] = 64,
+        ["icon-additions"] = {}
+    },
+    {
+        ["item-name"] = "basic-crystallonic",
+        ["unlock-tier"] = "deadlock-stacking-2",
+        ["icon"] = "__DeadlockStackingForOmnimatter__/graphics/icons/omnimatter_crystal/stacked-basic-crystallonic.png",
+        ["icon-size"] = 64,
+        ["icon-additions"] = {}
+    },
+    {
+        ["item-name"] = "basic-oscillo-crystallonic",
+        ["unlock-tier"] = "deadlock-stacking-3",
+        ["icon"] = "__DeadlockStackingForOmnimatter__/graphics/icons/omnimatter_crystal/stacked-basic-oscillo-crystallonic.png",
         ["icon-size"] = 64,
         ["icon-additions"] = {}
     }

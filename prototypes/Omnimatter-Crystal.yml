@@ -25,7 +25,7 @@ items:
     icon: ore-pile
   - name: electrocrystal
     type: resource
-    tier: 2
+    tier: 3
     icon: ore-pile
   - name: impure-crystal-rod
     type: resource
@@ -94,3 +94,17 @@ items:
     type: resource
     tier: 2
     icon: ore-pile
+
+  # Crystal structures
+  - name: omnine-structure-crystal
+    type: intermediate
+    tier: 2
+    icon: ingot
+  - name: basic-crystallonic
+    type: intermediate
+    tier: 2
+    icon: ingot
+  - name: basic-oscillo-crystallonic
+    type: intermediate
+    tier: 3
+    icon: ingot
