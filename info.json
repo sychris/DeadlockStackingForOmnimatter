@@ -5,7 +5,7 @@
     "author": "Adrien 'Larandar' DUDOUIT-EXPOSITO",
     "contact": "adrien@dudouit.me",
     "homepage": "https://mods.factorio.com/mod/DeadlockStackingForOmnimatter",
-    "factorio_version": "1.0",
+    "factorio_version": "1.1",
     "dependencies": [
         "base >= 1.1",
         "deadlock-beltboxes-loaders >= 2.3.0",
