@@ -7,7 +7,7 @@
     "homepage": "https://mods.factorio.com/mod/DeadlockStackingForOmnimatter",
     "factorio_version": "1.0",
     "dependencies": [
-        "base >= 1.0.0",
+        "base >= 1.1",
         "deadlock-beltboxes-loaders >= 2.3.0",
         "omnimatter >= 4.0.0",
         "?omnimatter_crystal >=  4.0.0",
